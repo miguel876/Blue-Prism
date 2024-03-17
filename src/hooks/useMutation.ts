@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import api from 'utils/config.json';
+import api from 'utils/config';
 
 type HttpMethod = 'POST' | 'PUT' | 'DELETE';
 

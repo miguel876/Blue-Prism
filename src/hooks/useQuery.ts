@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import api from 'utils/config.json';
+import api from 'utils/config';
 
 type ApiResponse<T> = {
   data: T | null;
