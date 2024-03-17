@@ -1,3 +1,3 @@
 export default {
-  baseApi: process.env.PROD_BASE_URL || 'http://localhost:8000',
+  baseApi: process.env.REACT_APP_PROD_BASE_URL || 'http://localhost:8000',
 };
