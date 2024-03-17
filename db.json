@@ -1,0 +1,113 @@
+{
+  "schedules": [
+    {
+      "id": "1",
+      "title": "Schedule 1",
+      "detail": "Schedule 1 detail",
+      "retired": false
+    },
+    {
+      "id": "2",
+      "title": "Schedule 2",
+      "detail": "Schedule 2 detail",
+      "retired": true
+    },
+    {
+      "id": "3",
+      "title": "Schedule 3",
+      "detail": "Schedule 3 detail",
+      "retired": false
+    },
+    {
+      "id": "4",
+      "title": "Schedule 4",
+      "detail": "Schedule 4 detail",
+      "retired": true
+    },
+    {
+      "id": "5",
+      "title": "Schedule 5",
+      "detail": "Schedule 5 detail",
+      "retired": false
+    },
+    {
+      "id": "6",
+      "title": "Schedule 6",
+      "detail": "Schedule 6 detail",
+      "retired": true
+    },
+    {
+      "id": "7",
+      "title": "Schedule 7",
+      "detail": "Schedule 7 detail",
+      "retired": false
+    },
+    {
+      "id": "8",
+      "title": "Schedule 8",
+      "detail": "Schedule 8 detail",
+      "retired": false
+    },
+    {
+      "id": "9",
+      "title": "Schedule 9",
+      "detail": "Schedule 9 detail",
+      "retired": false
+    },
+    {
+      "id": "10",
+      "title": "Schedule 10",
+      "detail": "Schedule 10 detail",
+      "retired": false
+    },
+    {
+      "id": "11",
+      "title": "Schedule 11",
+      "detail": "Schedule 11 detail",
+      "retired": false
+    },
+    {
+      "id": "12",
+      "title": "Schedule 12",
+      "detail": "Schedule 12 detail",
+      "retired": false
+    }
+  ],
+  "scheduleLogs": [
+    {
+      "id": "1",
+      "logs": [
+        {
+          "id": "1",
+          "log": "Schedule 1 log 1",
+          "date": "2024/03/15"
+        },
+        {
+          "id": "2",
+          "log": "Schedule 1 log 2",
+          "date": "2024/02/15"
+        },
+        {
+          "id": "3",
+          "log": "Schedule 1 log 3",
+          "date": "2024/01/03"
+        },
+        {
+          "id": "4",
+          "log": "Schedule 1 log 4",
+          "date": "2024/01/29"
+        },
+        {
+          "id": "5",
+          "log": "Schedule 1 log 5",
+          "date": "2024/03/02"
+        },
+        {
+          "id": "6",
+          "log": "Schedule 1 log 6",
+          "date": "2024/03/04"
+        }
+      ]
+    }
+  ]
+}

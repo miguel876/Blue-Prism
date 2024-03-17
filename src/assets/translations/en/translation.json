@@ -1,0 +1,15 @@
+{
+  "labels": {
+    "schedules": "Schedules",
+    "retire": "Retire",
+    "unretire": "Unretire",
+    "show-retired": "Show Retired"
+  },
+  "errors": {
+    "no-logs": "No logs were found",
+    "no-schedules": "No schedules were found"
+  },
+  "messages": {
+    "success": "Retired successfully!"
+  }
+}
